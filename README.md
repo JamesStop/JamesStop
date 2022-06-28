@@ -16,8 +16,8 @@
 <h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/JamesStop">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical"/>
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical"/>
   </a>
 </p>
 
