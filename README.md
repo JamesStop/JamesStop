@@ -10,9 +10,6 @@
   </a>
 </p>
 
-[![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical)](https://github.com/JamesStop/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical)](https://github.com/JamesStop/github-readme-stats)
 
 <!--
 **JamesStop/JamesStop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
