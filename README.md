@@ -3,6 +3,7 @@
 <h1 align="center">Hi!  I'm James!</h1>
 </br>
 </br>
+<h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/JamesStop">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
