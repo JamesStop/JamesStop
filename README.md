@@ -1,8 +1,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JamesStop)
-
+</br>
 <h1 align="center">Hi!  I'm James!</h1>
-
-
+</br>
+</br>
 <p align="center">
   <a href="https://github.com/JamesStop">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
