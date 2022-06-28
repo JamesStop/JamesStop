@@ -1,7 +1,7 @@
 
 
 
-[![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop)](https://github.com/JamesStop/github-readme-stats&show_icons=true&theme=radical)
+[![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical)](https://github.com/JamesStop/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact)](https://github.com/JamesStop/github-readme-stats)
 
