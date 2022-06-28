@@ -3,6 +3,15 @@
 <h1 align="center">Hi!  I'm James!</h1>
 </br>
 </br>
+<h2 align="center">Programming Languages</h2>
+  <ul align="center">
+    <li>HTML</li>
+    <li>JavaScript</li>
+    <li>CSS</li>
+    <li>React</li>
+  </ul>
+</br>
+</br>
 <h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/JamesStop">
