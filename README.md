@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi!  I'm James!</h1>
 
+
+<p align="center">
+  <a href="https://github.com/JamesStop">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical"/>
+  </a>
+</p>
+
 [![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical)](https://github.com/JamesStop/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical)](https://github.com/JamesStop/github-readme-stats)
