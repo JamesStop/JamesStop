@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 [![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop)](https://github.com/JamesStop/github-readme-stats)
