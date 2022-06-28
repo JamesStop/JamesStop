@@ -2,6 +2,10 @@
 </br>
 <h1 align="center">Hi!  I'm James!</h1>
 </br>
+<p align="center">
+  <img  src="https://media1.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
+</p>
+</br>
 </br>
 <h2 align="center">Programming Languages</h2>
 <p align="center">
@@ -16,8 +20,8 @@
 <h2 align="center">Github Analytics</h2>
 <p align="center">
   <a href="https://github.com/JamesStop">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical"/>
+    <img min-height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical"/>
+    <img min-height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStop&layout=compact&theme=radical"/>
   </a>
 </p>
 
