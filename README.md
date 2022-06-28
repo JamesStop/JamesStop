@@ -2,7 +2,7 @@
 
 
 
-[![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUserName)](https://github.com/yourUserName/github-readme-stats)
+[![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop)](https://github.com/JamesStop/github-readme-stats)
 
 
 <!--
