@@ -4,12 +4,13 @@
 </br>
 </br>
 <h2 align="center">Programming Languages</h2>
-  <ul align="center">
-    <li>HTML</li>
-    <li>JavaScript</li>
-    <li>CSS</li>
-    <li>React</li>
-  </ul>
+<p align="center">
+  <img height="50px" width="50px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
+  <img height="50px" width="50px" alt="CSS logo" src="https://bit.ly/37iML7j">
+  <img height="50px" width="50px" alt="JS logo" src="https://bit.ly/3r1kzxY">
+  <img height="50px" width="50px" alt="Git logo" src="https://bit.ly/34ayuYn">
+  <img height="50px" width="50px" alt="React logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+</p>
 </br>
 </br>
 <h2 align="center">Github Analytics</h2>
