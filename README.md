@@ -1,5 +1,6 @@
-Hi!  I'm James! ![visitors](https://visitor-badge.glitch.me/badge?page_id=JamesStop)
+<div align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=JamesStop)</div>
 
+<h1 align="center">Hi!  I'm James!</h1>
 
 [![JamesStop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesStop&show_icons=true&theme=radical)](https://github.com/JamesStop/github-readme-stats)
 
